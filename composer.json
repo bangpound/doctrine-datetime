@@ -1,0 +1,14 @@
+{
+    "name": "bangpound/doctrine-datetime",
+    "description": "DateTime type that can be used in an entity ID",
+    "require": {
+        "doctrine/dbal": "~2.4"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Benjamin Doherty",
+            "email": "bjd@bangpound.org"
+        }
+    ]
+}
