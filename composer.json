@@ -2,7 +2,7 @@
     "name": "bangpound/doctrine-datetime",
     "description": "DateTime type that can be used in an entity ID",
     "require": {
-        "doctrine/dbal": "~2.4"
+        "doctrine/dbal": "~2.3"
     },
     "license": "MIT",
     "authors": [
