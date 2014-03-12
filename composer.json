@@ -10,5 +10,10 @@
             "name": "Benjamin Doherty",
             "email": "bjd@bangpound.org"
         }
-    ]
+    ],
+    "autoload": {
+        "psr-0": {
+            "Bangpound\\": "src/"
+        }
+    }
 }
