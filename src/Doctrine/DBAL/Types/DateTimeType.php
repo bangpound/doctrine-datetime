@@ -4,6 +4,7 @@ namespace Bangpound\Doctrine\DBAL\Types;
 
 use Doctrine\DBAL\Types\DateTimeType as BaseType;
 use Doctrine\DBAL\Platforms\AbstractPlatform;
+use Bangpound\DateTime;
 
 class DateTimeType extends BaseType
 {
